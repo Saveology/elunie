@@ -9,9 +9,9 @@ wins and the game is over.  If he makes any incorrect moves, he loses.
 
 The elements of the game are -
 
-Figures: circle, lozenge
-Sizes: small, big
-Colors: yellow, blue
+Figures:: circle, lozenge
+Sizes:: small, big
+Colors:: yellow, blue
 
 
 The rules are:
