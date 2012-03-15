@@ -16,9 +16,9 @@ Colors:: yellow, blue
 
 The rules are:
 
-- if the last figure is a lozenge, choose a blue one, if not choose one of the same size
-- if the last figure is yellow, choose a big one, if not choose a small one
-- if the last figure is yellow, choose a circle, if not choose a lozenge
+- if the last move is a lozenge, choose a blue one, if not choose one of the same size
+- if the last move is yellow, choose a big one, if not choose a small one
+- if the last move is yellow, choose a circle, if not choose a lozenge
 - if the last figure is blue, choose a circle, if not choose a lozenge
 - if the last figure is blue, choose a big figure, if not choose a different type
 - if the last figure is blue, choose a big figure, if not choose a circle
